@@ -1,0 +1,6 @@
+export * from './create-product.dto'
+export * from './update-product.dto'
+export * from './add-one-product-image.dto'
+export * from './add-one-product-video.dto'
+export * from './delete-one-product-image.dto'
+export * from './delete-one-product-video.dto'
